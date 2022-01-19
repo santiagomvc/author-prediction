@@ -1,0 +1,9 @@
+distilbert_enc_50.npy
+distilbert_enc_90.npy
+.vscode
+.DS_Store
+__pycache__
+data/train.csv
+data/test.csv
+results.csv
+nn_lstm.pt
